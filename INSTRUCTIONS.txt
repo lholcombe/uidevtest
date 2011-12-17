@@ -14,7 +14,7 @@ Attribute requirements:
 orange: #CC6600
 black:#202020
 grey: #666666
-fonts: Georgia,"Times New Roman",Times,serif and Arial,"MS Trebuchet",sans-serif 
+fonts: Georgia,"Times New Roman",Times,serif and Arial,"MS Trebuchet",sans-serif
 headline font size: 18px
 article text size: 14px
 photo cutline size: 12px
